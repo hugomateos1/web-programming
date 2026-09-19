@@ -1,0 +1,11 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+.especialidades{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 0;
+    list-style-position: inside;
+}
