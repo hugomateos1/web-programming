@@ -1,0 +1,20 @@
+*{ box-sizing: border-box;}
+header{
+    justify-content: flex-start;
+    align-items: center;
+    padding: 15px 30px;
+   }
+nav {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px
+}
+.fotos{
+    display: flex;
+    gap: 20px;
+}
+footer {
+    display: block;
+    width: 100%;
+    clear: both;
+}
